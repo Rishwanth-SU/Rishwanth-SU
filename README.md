@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me: (rishwanth.su@gmail.com)
+  [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png]" />](https://leetcode.com/u/RishwanthSU/)
 ### Language and Tools I use
 <img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mongo-db.png" /><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/30/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/parakeet/48/css.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /><img height="50" width="50" src="https://img.icons8.com/office/40/java-eclipse.png" /><img height="50" width="50" src="https://img.icons8.com/color-glass/48/notion.png" /><br/>
 ### Leetcode stats
