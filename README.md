@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me: (rishwanth.su@gmail.com)
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishwanth-su-1b186a25a/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishwanth-su-1b186a25a/)<br />
 
 ### Language and Tools I use
-<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mongo-db.png" /><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/30/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/parakeet/48/css.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /><img height="50" width="50" src="https://img.icons8.com/office/40/java-eclipse.png" /><img height="50" width="50" src="https://img.icons8.com/color-glass/48/notion.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mongo-db.png" /><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/30/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/parakeet/48/css.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /><img height="50" width="50" src="https://img.icons8.com/office/40/java-eclipse.png" /><img height="50" width="50" src="https://img.icons8.com/color-glass/48/notion.png" /><br />
 
 <!--
 ### Profiles
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <br /> [<img src="" />]()
 -->
 
-<br />
 ### Leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RishwanthSU?theme=dark&font=Basic&ext=contest)<br />
 ![Rishwanth-SU's Stats](https://github-readme-stats.vercel.app/api?username=Rishwanth-SU&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
